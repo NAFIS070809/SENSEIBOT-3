@@ -32,7 +32,7 @@ $ pkg install bash
 $ pkg install nodejs
 $ pkg install ffmpeg 
 $ git clone https://github.com/NAFIS070809/SENSEIBOT-2
-$ cd SENSEIBOT-2
+$ cd SENSEIBOT-3
 $ ls
 $ unzip SENSEIBOT.zip
 $ cd SENSEIBOT
@@ -54,7 +54,7 @@ $ npm start
 ## Cara Aktifin Lagi
 
 ```sh 
-$ cd SENSEIBOT-2 
+$ cd SENSEIBOT-3
 $ cd SENSEIBOT 
 $ node SENSEIBOT.js
 ```
