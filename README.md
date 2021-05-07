@@ -2,7 +2,7 @@
 
 
 
-<a href="#"><img title="SENSEIBOT-3" src="https://img.shields.io/badge/-SENSEIBOT--2---green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SENSEIBOT-3" src="https://img.shields.io/badge/-SENSEIBOT--3---green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 <a href="https://github.com/NAFIS070809"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NAFIS-red?style=for-the-badge&logo=github"></a>
 
